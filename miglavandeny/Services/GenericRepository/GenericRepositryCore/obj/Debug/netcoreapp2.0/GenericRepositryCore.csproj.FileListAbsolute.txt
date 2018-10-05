@@ -1,0 +1,12 @@
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\bin\Debug\netcoreapp2.0\GenericRepositryCore.deps.json
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\bin\Debug\netcoreapp2.0\GenericRepositryCore.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.csproj.CoreCompileInputs.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.AssemblyInfoInputs.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.AssemblyInfo.cs
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\bin\Debug\netcoreapp2.0\GenericRepositryCore.pdb
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.pdb
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\bin\Debug\netcoreapp2.0\GenericRepository.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\bin\Debug\netcoreapp2.0\GenericRepository.pdb
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.csprojAssemblyReference.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Services\DataLayer\GenericRepository\GenericRepositryCore\obj\Debug\netcoreapp2.0\GenericRepositryCore.csproj.CopyComplete

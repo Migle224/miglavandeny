@@ -1,0 +1,12 @@
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\bin\Release\netcoreapp2.0\GenericRepositoryCore.deps.json
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\bin\Release\netcoreapp2.0\GenericRepositoryCore.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\bin\Release\netcoreapp2.0\GenericRepositoryCore.pdb
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\bin\Release\netcoreapp2.0\GenericRepositoryLibrary.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\bin\Release\netcoreapp2.0\GenericRepositoryLibrary.pdb
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.csprojAssemblyReference.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.csproj.CoreCompileInputs.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.AssemblyInfoInputs.cache
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.AssemblyInfo.cs
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.csproj.CopyComplete
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.dll
+C:\VSO\Source\Workspaces\PULSE\Pulse\Common\Data\DataAccessLayer\GenericRepository\GenericRepositryCore\obj\Release\netcoreapp2.0\GenericRepositoryCore.pdb
