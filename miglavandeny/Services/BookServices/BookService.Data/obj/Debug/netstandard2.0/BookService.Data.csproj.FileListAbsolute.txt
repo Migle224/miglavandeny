@@ -1,0 +1,9 @@
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\bin\Debug\netstandard2.0\BookService.Data.deps.json
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\bin\Debug\netstandard2.0\BookService.Data.dll
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\bin\Debug\netstandard2.0\BookService.Data.pdb
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.csprojResolveAssemblyReference.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.csproj.CoreCompileInputs.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.AssemblyInfoInputs.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.AssemblyInfo.cs
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.dll
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService.Data\obj\Debug\netstandard2.0\BookService.Data.pdb

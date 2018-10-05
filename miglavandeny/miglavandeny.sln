@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0E0AD63E-B061-4C9C-89E8-4543E1979C44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0E6477A0-3616-46BA-B0D1-FA18A42037D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService_TestProject", "Tests\Services\BookService\BookService_TestProject\BookService_TestProject.csproj", "{0E00B38B-2FD3-412A-B460-859637EE269A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookServices", "BookServices", "{EE12B07A-55C8-419F-B36F-AF43FFEFDE41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{B90BF9E3-48B4-4112-87B5-3281894FEAAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookServices", "BookServices", "{24F53B4E-D311-430A-A5C1-F3A8DD40F02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService.Data", "Services\BookServices\BookService.Data\BookService.Data.csproj", "{529A6226-1FF6-479E-BD9C-90E3E4594E92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericRepository", "GenericRepository", "{7BC87D89-7B91-4F94-BE99-EBA311CA4B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepositoryEF6", "Services\GenericRepository\GenericRepositoryEF6\GenericRepositoryEF6.csproj", "{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericRepositoryLibrary", "Services\GenericRepository\GenericRepositoryLibrary\GenericRepositoryLibrary.csproj", "{D49B7A2A-7F34-46E1-844A-D762DB53ACC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericRepositoryCore", "Services\GenericRepository\GenericRepositryCore\GenericRepositoryCore.csproj", "{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService", "Services\BookServices\BookService\BookService.csproj", "{A86242E9-5B8D-4D60-9629-CCB250BBCAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E00B38B-2FD3-412A-B460-859637EE269A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E00B38B-2FD3-412A-B460-859637EE269A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E00B38B-2FD3-412A-B460-859637EE269A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E00B38B-2FD3-412A-B460-859637EE269A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529A6226-1FF6-479E-BD9C-90E3E4594E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529A6226-1FF6-479E-BD9C-90E3E4594E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529A6226-1FF6-479E-BD9C-90E3E4594E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529A6226-1FF6-479E-BD9C-90E3E4594E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49B7A2A-7F34-46E1-844A-D762DB53ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49B7A2A-7F34-46E1-844A-D762DB53ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49B7A2A-7F34-46E1-844A-D762DB53ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49B7A2A-7F34-46E1-844A-D762DB53ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86242E9-5B8D-4D60-9629-CCB250BBCAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86242E9-5B8D-4D60-9629-CCB250BBCAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86242E9-5B8D-4D60-9629-CCB250BBCAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86242E9-5B8D-4D60-9629-CCB250BBCAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E00B38B-2FD3-412A-B460-859637EE269A} = {24F53B4E-D311-430A-A5C1-F3A8DD40F02B}
+		{EE12B07A-55C8-419F-B36F-AF43FFEFDE41} = {0E0AD63E-B061-4C9C-89E8-4543E1979C44}
+		{B90BF9E3-48B4-4112-87B5-3281894FEAAA} = {0E6477A0-3616-46BA-B0D1-FA18A42037D9}
+		{24F53B4E-D311-430A-A5C1-F3A8DD40F02B} = {B90BF9E3-48B4-4112-87B5-3281894FEAAA}
+		{529A6226-1FF6-479E-BD9C-90E3E4594E92} = {EE12B07A-55C8-419F-B36F-AF43FFEFDE41}
+		{7BC87D89-7B91-4F94-BE99-EBA311CA4B27} = {0E0AD63E-B061-4C9C-89E8-4543E1979C44}
+		{F5F2CED1-0118-4C05-BA8E-1DF03E300BE0} = {7BC87D89-7B91-4F94-BE99-EBA311CA4B27}
+		{D49B7A2A-7F34-46E1-844A-D762DB53ACC2} = {7BC87D89-7B91-4F94-BE99-EBA311CA4B27}
+		{B4F1EEB7-D1A8-4A6D-8064-4926BB6BB616} = {7BC87D89-7B91-4F94-BE99-EBA311CA4B27}
+		{A86242E9-5B8D-4D60-9629-CCB250BBCAC5} = {EE12B07A-55C8-419F-B36F-AF43FFEFDE41}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE7107C-3E78-4DD2-A289-D5720715A89B}
+	EndGlobalSection
+EndGlobal

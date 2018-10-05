@@ -1,0 +1,11 @@
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\bin\Debug\netcoreapp2.0\BookService.deps.json
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.json
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\bin\Debug\netcoreapp2.0\BookService.runtimeconfig.dev.json
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\bin\Debug\netcoreapp2.0\BookService.dll
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\bin\Debug\netcoreapp2.0\BookService.pdb
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.csprojResolveAssemblyReference.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.csproj.CoreCompileInputs.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfoInputs.cache
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.AssemblyInfo.cs
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.dll
+D:\miglavandany\miglaVandeny\miglavandeny\Services\BookServices\BookService\obj\Debug\netcoreapp2.0\BookService.pdb
